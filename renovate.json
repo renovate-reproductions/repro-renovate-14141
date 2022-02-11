@@ -1,8 +1,5 @@
 {
   "extends": ["config:base"],
-  "automerge": true,
-  "automergeType": "branch",
   "schedule": ["at any time"],
-  "ignoreTests": true,
   "transitiveRemediation": true
 }
